@@ -5,7 +5,7 @@
 <h1 align="center">FasterRedux</h1>
 
 <p align="center">
-  <b>Мгновенный менеджер-инжектор модов для GTA 5 RP с автоматическим обходом RGL.</b>
+  <b>Мгновенный менеджер-инжектор модов для GTA 5 RP / Majestic RP с автоматическим обходом RGL.</b>
 </p>
 
 <p align="center">
