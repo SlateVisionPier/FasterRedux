@@ -1,0 +1,16 @@
+﻿<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#0B1120"/>
+  
+  <g transform="translate(10, 0)">
+    <path d="M130 60 L210 60 L140 196 L60 196 Z" fill="url(#gradRed)"/>
+    <path d="M96 60 L146 60 L106 136 L56 136 Z" fill="#3B82F6"/>
+    <path d="M50 110 L230 110 L220 130 L40 130 Z" fill="#0B1120"/>
+  </g>
+
+  <defs>
+    <linearGradient id="gradRed" x1="60" y1="60" x2="210" y2="196" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EF4444"/>
+      <stop offset="1" stop-color="#991B1B"/>
+    </linearGradient>
+  </defs>
+</svg>
